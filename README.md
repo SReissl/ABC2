@@ -1,1 +1,1 @@
-# ABC2
+Files necessary to reproduce the simulations shown in "ABC: An Agent Based Exploration of the Macroeconomic Effects of Covid-19" (https://www.cesifo.org/en/publications/2021/working-paper/v-vaccines-and-variants), forthcoming in the Journal of Evolutionary Economics.
